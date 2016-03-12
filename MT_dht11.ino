@@ -1,3 +1,5 @@
+// this is my value added coding
+// please see the comments below
 
 // 03/02/16
 // MT- Temp/humidity sensor and LCD Integration.
